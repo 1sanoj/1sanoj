@@ -59,4 +59,4 @@ Atualmente venho aprofundando conhecimentos em C#, .NET, Java, Python, SQL, APIs
 ## Contato
 
 - GitHub: **@1sanoj**
-- LinkedIn: em breve
+- LinkedIn: 1sanoj
